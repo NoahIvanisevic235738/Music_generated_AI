@@ -54,9 +54,6 @@ pip install torch transformers scipy
 ## Contributing
 Feel free to open issues or submit pull requests for improvements.
 
-## License
-[Add your chosen license here]
-
 ## Acknowledgments
 - Facebook Research for the MusicGen model
 - HuggingFace for the Transformers library
